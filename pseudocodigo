@@ -1,0 +1,9 @@
+Leia Nota1
+Leia Nota2
+Leia Nota3
+
+SomaNotas = Nota1 + Nota2 + Nota3
+
+Media = SomaNotas / 3
+
+Escreva Media
